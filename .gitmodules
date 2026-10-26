@@ -1,3 +1,6 @@
 [submodule "pcRamiro"]
 	path = pcRamiro
 	url = https://github.com/meleiro/DAW--DWES-pcRamiro.git
+[submodule "ElectroLatino"]
+	path = ElectroLatino
+	url = https://github.com/meleiro/DAW--DWES-ElectroLatino.git
